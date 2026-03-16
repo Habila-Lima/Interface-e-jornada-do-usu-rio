@@ -1,5 +1,4 @@
-# 📖 Design de Interfaces e Experiência do Usuário (UX/UI)
-
+# 📖 Interface e Jornada do Usuário
 Bem-vindo ao repositório da disciplina! Aqui exploramos a intersecção entre o comportamento humano e a tecnologia, focando na criação de produtos digitais que não são apenas funcionais, mas memoráveis e acessíveis.
 
 ---
