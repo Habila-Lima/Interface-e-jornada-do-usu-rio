@@ -49,7 +49,7 @@ Para atender aos requisitos de um usuário de alta responsabilidade, apliquei as
 ---
 
 ## ✒️ Autores
-Desenvolvido por **Hábila Lima**, **Patrícia Pimentel**, **Débora Mendonça** e **Thiago Soares**
+Desenvolvido por **Hábila Lima**, **[Patricia Pimentel](https://github.com/Patricia-Pimentel)**, **Débora Mendonça** e **Thiago Soares**
 
 *Analistas e Desenvolvedores de Sistemas em formação.*
 
